@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Global transportation project**
 
-- 💬 Ask me about **React, Vue, Python**
+- 💬 Ask me about **ٔNext, React, Vue, Nuxt, NestJS**
 
 - 📫 How to reach me **aziz.programer@gmail.com**
 <picture>
